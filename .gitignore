@@ -1,0 +1,21 @@
+# OS/editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Build artifacts
+target/
+*.class
+*.jar
+
+# Local packages and exported archives
+downloads/
+*.zip
+
+# Secrets and local runtime files
+.env
+*.local
+nohup.out
+logs/
+
