@@ -10,6 +10,16 @@
 - 使用真实 Datart 连接 MySQL，创建数据视图、数据图表和仪表板。
 - 可视化风格参考 `reference_images/` 中的作业截图。
 
+## 部署说明
+
+如果需要从 GitHub 拉取项目并部署到本地或虚拟机，请先阅读：
+
+```text
+DEPLOYMENT.md
+```
+
+该文档单独说明了需要安装的软件、Hadoop 伪分布式环境配置、MySQL 导入、Datart 数据源配置和完整启动顺序。
+
 ## 目录结构
 
 ```text
@@ -125,4 +135,3 @@ Battery Temperature Distribution   cluster-column-chart
 ## 注意
 
 这是公开仓库版本，未提交本机虚拟机账号、MySQL 密码、Datart 管理员密码等敏感信息。实际运行时请在自己的虚拟机或服务器中设置账号密码，并在 Datart 数据源中填写本地 MySQL 连接信息。
-
