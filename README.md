@@ -20,6 +20,15 @@ DEPLOYMENT.md
 
 该文档单独说明了需要安装的软件、Hadoop 伪分布式环境配置、MySQL 导入、Datart 数据源配置和完整启动顺序。
 
+## 项目材料
+
+实训讲稿和作业参考图压缩包已放在：
+
+```text
+materials/新能源充电桩大数据项目实训讲稿.md
+materials/作业1.zip
+```
+
 ## 目录结构
 
 ```text
